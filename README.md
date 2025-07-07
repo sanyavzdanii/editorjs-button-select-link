@@ -18,7 +18,7 @@
 Get the package
 
 ```shell
-npm i --save editorjs-button
+npm i --save editorjs-button-select-link
 ```
 
 Include module at your application
@@ -34,7 +34,7 @@ const anyButton = require('anyButton');
 
 ### Load from CDN
 
-`https://cdn.jsdelivr.net/npm/editorjs-button@latest`
+`https://cdn.jsdelivr.net/npm/editorjs-button-select-link@latest`
 
 ## Usage
 
